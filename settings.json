@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "SERVERBOT-900",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
-    "ip": "PERSONAL_HOST_PAID.aternos.me",
-    "port":  59021,
+    "ip": "Arindam95.aternos.me",
+    "port":  19963,
     "version": "",
     "try-creative": false
   },
