@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "PERSONAL_HOST_PAID.aternos.me:59021",
+    "ip": "PERSONAL_HOST_PAID.aternos.me",
     "port":  59021,
     "version": "",
     "try-creative": false
